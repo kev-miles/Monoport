@@ -3,9 +3,7 @@ package;
 import monofl.Mono;
 import openfl.display.Sprite;
 import openfl.Lib;
-import monofl.visual.PixelColorReader;
 import monofl.visual.Artist;
-import monofl.managers.NewgroundsAPIManager;
 
 class Main extends Sprite
 {
