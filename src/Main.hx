@@ -7,7 +7,6 @@ import monofl.visual.Artist;
 
 class Main extends Sprite
 {
-
 	public static var mono:Mono;
 	public function new() 
 	{
