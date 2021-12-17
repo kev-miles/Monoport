@@ -9,7 +9,6 @@ class Main extends Sprite
 {
 
 	public static var mono:Mono;
-	public var newgroundsAPIManager:NewgroundsAPIManager;
 	public function new() 
 	{
 		super();
